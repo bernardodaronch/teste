@@ -1,0 +1,1 @@
+Testando os comandos do git no github. Ajudando o meu amigo bernardo a utilizar o git dde maneira correta!
